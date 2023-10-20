@@ -1,4 +1,10 @@
-### H99DEVELOPER
+### 💻 H99DEVELOPER 💻 
+
+## I am Web & Chat Bot developer
+
+## My Stack:
+# Python 
+# C++
 
 
 
